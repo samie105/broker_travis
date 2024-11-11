@@ -132,7 +132,7 @@ export default function Slider() {
                   </div>
                   <div className="larger-text lg:text-5xl text-xl sm:text-2xl md:text-3xl font-bold opacity-95 animate__fast animate__animated animate__fadeInLeft">
                     Continue Trading.
-                    <p className="font-black">Pick Up Where'd Left Off.</p>
+                    <p className="font-black">Pick Up Where You Left Off.</p>
                   </div>
                 </div>
                 <div className="textcontexts my-5  opacity-90 animate__animated animate__fadeInLeft text-sm flex-wrap lg:text-base">

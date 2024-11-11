@@ -81,8 +81,8 @@ export default function GettingStarted() {
             We all have to start somewhere. Let us help get you on the right
             track as you start your investing journey. With this innovative
             platform you'll be ready to start in no time. The fund is started in
-            literally several minutes with minimal costs using blockchain-based
-            infrastructure that infos. We believe it is incredibly important to
+            literally several minutes with minimal costs using blockchain based
+            infrastructure. We believe it is incredibly important to
             redistribute this power & profitability.
           </div>
           <Link href="/auth" passHref className="flex items-center">
@@ -197,7 +197,7 @@ export default function GettingStarted() {
                 >
                   <p>
                     You have an unlimited access to our wide range of profitable
-                    assets to investon. Once your contract is started, your
+                    assets to invest in. Once your contract is started, your
                     earnings will automatically be credited to you wallet.
                   </p>
                 </div>
