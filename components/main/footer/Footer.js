@@ -207,7 +207,7 @@ export default function Footer() {
                     Office Address
                   </div>
                   <div className="phone text-gray-400 my-1 text-sm">
-                    4240 Atwaters center, CA 20032, USA
+                    110 Washington Street Suite 1300 Conshohocken, PA 19428
                   </div>
                 </div>
               </section>

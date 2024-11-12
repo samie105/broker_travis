@@ -98,7 +98,7 @@ export default function LoadingScreen() {
                 progress > 10 && progress <= 35 ? "animate__slideInUp" : ""
               } ${progress >= 35 ? "animate__slideOutDown" : ""}`}
             >
-              Hey👋 Nice seeing you
+              Welcome!
             </div>
           )}
           {progress > 40 && progress <= 85 && (
