@@ -35,13 +35,13 @@ async function sendVerificationEmail(email, code) {
     // Transport configuration
     service: "gmail",
     auth: {
-      user: "osr.cty@gmail.com",
-      pass: "btzbcklyxerxvkiy",
+      user: "hamiltonassetgroup@gmail.com",
+      pass: "emot agju rvff etvw ",
     },
   });
 
   await transporter.sendMail({
-    from: "Hamilton Group <support@hamiltonassetmgt.com>",
+    from: "Hamilton Asset Group <support@hamiltonassetmgt.com>",
     to: email,
     subject: "Email Verification",
     text: `Your verification code is: ${code}`,

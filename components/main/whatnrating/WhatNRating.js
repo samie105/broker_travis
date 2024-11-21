@@ -71,7 +71,8 @@ export default function WhatNRating() {
           <div className=" text-white ml-10 mr-5 mt-5  lg:text-center lg:mt-1 md:text-center font-extralight">
             <p>
               Hamilton Group asset management provides the power and{" "}
-              <br className="hidden lg:flex md:flex" />
+              <br className="hidden lg:flex md:flex" /> 
+              
               reliability you need to feel more confident in{" "}
               <br className="hidden lg:flex md:flex" /> your trading.
             </p>

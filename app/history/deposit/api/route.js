@@ -46,15 +46,15 @@ export async function POST(request) {
     const transporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
-        user: "samsonrichfield@gmail.com",
-        pass: "xsfq yzmu rzfu neeg",
+        user: "hamiltonassetgroup@gmail.com",
+        pass: "emot agju rvff etvw ",
       },
     });
 
     // Define email options
     const mailOptions = {
-      from: "Hamilton Group <support@hamiltonassetmgt.com>",
-      to: "samsonrichfield@gmail.com",
+      from: "Hamilton Asset Group <support@hamiltonassetmgt.com>",
+      to: "hamiltonassetgroup@gmail.com",
       subject: "Deposit Confirmation",
       html: `
         <p>Hello Admin,</p>
