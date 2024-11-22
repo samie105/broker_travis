@@ -4,7 +4,7 @@ export default function HomePage() {
   return (
     <>
       <Script
-        src="//code.jivosite.com/widget/uGzAULrTPf"
+        src="//code.jivosite.com/widget/HJodpwZmU9"
         strategy="afterInteractive"
         async
       ></Script>
