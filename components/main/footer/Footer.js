@@ -139,6 +139,14 @@ export default function Footer() {
                     />
                   </svg>
                 </div>
+                <div className="phonenum text-sm">
+                  <div className="phone  text-gray-200 font-bold">
+                    Phone Contact
+                  </div>
+                  <div className="phone text-gray-400 my-1 text-sm">
+                    +1 (623) 210 0971
+                  </div>
+                </div>
               </section>
               <section className="icon-section"></section>
             </div>
