@@ -144,7 +144,7 @@ export default function Footer() {
                     Phone Contact
                   </div>
                   <div className="phone text-gray-400 my-1 text-sm">
-                    +1 (623) 210 0971
+                    +1 (724) 235 8547
                   </div>
                 </div>
               </section>
