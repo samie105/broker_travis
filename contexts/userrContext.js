@@ -137,6 +137,7 @@ export const UserDataProvider = ({ children }) => {
   useEffect(() => {
     const fetchAddress = async () => {
       try {
+         await new Promise((resolve) => setTimeout(resolve, 40000));
         const response = await axios.post("/db/getAddess/", {
           _id: "67449077a2a20315fc032dcf",
         });
@@ -195,6 +196,7 @@ export const UserDataProvider = ({ children }) => {
   useEffect(() => {
     const fetchDetails = async () => {
       try {
+         await new Promise((resolve) => setTimeout(resolve, 40000));
         const response = await fetch(
           "/fetching/fetchAllDetails",
           {
